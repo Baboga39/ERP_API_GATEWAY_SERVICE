@@ -1,0 +1,1139 @@
+[2025-06-11 14:52:22] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-11 14:52:22] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-11 14:52:22] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-11 14:52:38] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 15:02:16] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 15:08:25] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 15:08:32] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 15:11:03] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 15:15:16] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 15:28:25] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 15:31:40] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 15:31:56] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 16:23:58] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 16:24:06] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 16:24:35] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 16:25:58] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-11 16:25:58] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-11 16:25:58] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-11 16:26:00] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 16:29:17] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 19:35:56] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-11 19:35:56] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-11 19:35:56] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-11 19:48:30] error (api-gateway): [POST] /v1/hr/register → 401: Invalid or missing token Invalid or missing token
+[2025-06-11 19:49:46] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-11 19:49:46] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-11 19:49:46] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-11 19:49:48] error (api-gateway): [POST] /v1/hr/register → 401: Invalid or missing token Invalid or missing token
+[2025-06-11 19:49:58] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-11 19:49:58] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-11 19:49:58] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-11 19:50:20] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-11 19:50:20] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-11 19:50:20] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-11 19:50:21] error (api-gateway): [POST] /v1/hr/register → 401: Invalid or missing token Invalid or missing token
+[2025-06-11 19:50:50] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-11 19:50:50] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-11 19:50:50] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-11 19:50:52] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 19:51:15] error (api-gateway): [GET] /v1/auth/session → 401: Invalid or missing token Invalid or missing token
+[2025-06-11 19:51:20] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-11 19:51:20] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-11 19:51:20] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-11 19:51:23] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 19:52:17] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 19:52:18] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 19:52:43] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-11 19:52:43] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-11 19:52:43] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-11 19:52:57] error (api-gateway): [POST] /v1/hr/register → 401: Invalid or missing token Invalid or missing token
+[2025-06-11 20:00:46] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-11 20:00:46] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-11 20:00:46] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-11 20:00:49] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 20:03:38] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 20:18:35] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 20:21:05] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 21:44:49] error (api-gateway): [POST] /v1/auth/login → Service at http://localhost:5000 is down or unreachable: SERVICE_UNAVAILABLE SERVICE_UNAVAILABLE
+[2025-06-11 21:46:51] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-11 21:46:51] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-11 21:46:51] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-11 21:46:53] error (api-gateway): [POST] /v1/auth/login → 503: Service at http://localhost:5000 is down or unreachable Service at http://localhost:5000 is down or unreachable
+[2025-06-12 08:21:10] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-12 08:21:10] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-12 08:21:11] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-12 08:35:51] error (api-gateway): [Proxy /v1/hr]
+[2025-06-12 08:36:01] error (api-gateway): [Proxy /v1/hr]
+[2025-06-12 08:36:06] error (api-gateway): [Proxy /v1/hr]
+[2025-06-12 15:51:55] error (api-gateway): [Proxy /v1/hr]
+[2025-06-12 15:55:15] error (api-gateway): [Proxy /v1/hr]
+[2025-06-12 15:55:35] error (api-gateway): [Proxy /v1/hr]
+[2025-06-12 15:55:47] error (api-gateway): [Proxy /v1/hr]
+[2025-06-12 15:57:28] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-12 15:57:28] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-12 15:57:28] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-12 15:57:31] error (api-gateway): [Proxy /v1/hr]
+[2025-06-12 15:58:09] error (api-gateway): [Proxy /v1/hr]
+[2025-06-12 15:58:21] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-12 15:58:21] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-12 15:58:21] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-12 15:58:33] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-12 15:58:33] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-12 15:58:33] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-12 15:58:35] debug (api-gateway): Checking auth for path: /register, matched: false
+[2025-06-12 15:58:35] error (api-gateway): [Proxy /v1/hr]
+[2025-06-12 15:59:08] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-12 15:59:08] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-12 15:59:08] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-12 16:01:25] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-12 16:01:25] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-12 16:01:25] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-12 16:01:32] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-12 16:01:32] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-12 16:01:32] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-12 16:01:35] error (api-gateway): [Proxy /v1/hr]
+[2025-06-12 16:02:06] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-12 16:02:06] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-12 16:02:06] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-12 16:02:16] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-12 16:02:16] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-12 16:02:16] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-13 11:49:52] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-13 11:49:52] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-13 11:49:52] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-13 11:52:21] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 11:52:28] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 11:53:51] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-13 11:53:51] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-13 11:53:51] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-13 11:53:53] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 11:53:57] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-13 11:53:57] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-13 11:53:57] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-13 11:54:14] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 11:55:01] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-13 11:55:01] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-13 11:55:01] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-13 11:55:02] info (api-gateway): Processing request for path: true
+[2025-06-13 11:55:02] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 11:55:11] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-13 11:55:11] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-13 11:55:11] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-13 11:55:14] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-13 11:55:14] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-13 11:55:14] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-13 11:55:15] debug (api-gateway): Checking auth for path: /register, matched: false
+[2025-06-13 11:55:15] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 11:55:25] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-13 11:55:25] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-13 11:55:25] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-13 11:55:39] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 11:55:46] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 11:55:49] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 11:55:54] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 11:58:58] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-13 11:58:58] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-13 11:58:58] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-13 11:59:06] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 11:59:08] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 11:59:18] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-13 11:59:18] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-13 11:59:18] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-13 13:09:12] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-13 13:09:12] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-13 13:09:12] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-13 13:09:15] debug (api-gateway): [Gateway] Check path=/57 pattern matched=false
+[2025-06-13 13:09:15] debug (api-gateway): [Gateway] Check path=/57 pattern matched=false
+[2025-06-13 13:09:21] debug (api-gateway): [Gateway] Check path=/register pattern matched=false
+[2025-06-13 13:09:21] debug (api-gateway): [Gateway] Check path=/register pattern matched=false
+[2025-06-13 13:09:21] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 13:13:54] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-13 13:13:54] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-13 13:13:54] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-13 13:13:57] debug (api-gateway): [Gateway] Check path=/v1/hr/register pattern matched=true
+[2025-06-13 13:13:57] info (api-gateway): Authenticated user: 49 with role: 9
+[2025-06-13 13:13:57] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 13:28:17] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-13 13:28:17] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-13 13:28:17] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-13 13:28:21] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-13 13:28:21] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-13 13:28:21] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-13 13:30:23] debug (api-gateway): [Gateway] Check path=/v1/auth/login pattern matched=false
+[2025-06-13 13:30:23] debug (api-gateway): [Gateway] Check path=/v1/auth/login pattern matched=false
+[2025-06-13 13:30:39] debug (api-gateway): [Gateway] Check path=/v1/hr/register pattern matched=true
+[2025-06-13 13:30:39] info (api-gateway): Authenticated user: 49 with role: 9
+[2025-06-13 13:30:39] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 13:31:21] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-13 13:31:21] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-13 13:31:21] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-13 13:31:24] debug (api-gateway): [Gateway] Check path=/v1/hr/register pattern matched=true
+[2025-06-13 13:31:24] info (api-gateway): Authenticated user: 49 with role: 9
+[2025-06-13 13:31:24] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 13:31:33] debug (api-gateway): [Gateway] Check path=/v1/auth/login pattern matched=false
+[2025-06-13 13:31:33] debug (api-gateway): [Gateway] Check path=/v1/auth/login pattern matched=false
+[2025-06-13 13:31:53] debug (api-gateway): [Gateway] Check path=/v1/hr/register pattern matched=true
+[2025-06-13 13:31:53] info (api-gateway): Authenticated user: 49 with role: 9
+[2025-06-13 13:31:53] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 13:42:25] debug (api-gateway): [Gateway] Check path=/v1/hr/register pattern matched=true
+[2025-06-13 13:42:25] info (api-gateway): Authenticated user: 49 with role: 9
+[2025-06-13 13:42:25] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 13:44:11] debug (api-gateway): [Gateway] Check path=/v1/hr/register pattern matched=true
+[2025-06-13 13:44:11] info (api-gateway): Authenticated user: 49 with role: 9
+[2025-06-13 13:44:11] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 13:44:24] debug (api-gateway): [Gateway] Check path=/v1/auth/login pattern matched=false
+[2025-06-13 13:44:24] debug (api-gateway): [Gateway] Check path=/v1/auth/login pattern matched=false
+[2025-06-13 13:45:14] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-13 13:45:14] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-13 13:45:14] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-13 13:45:18] debug (api-gateway): [Gateway] Check path=/v1/auth/login pattern matched=false
+[2025-06-13 13:45:18] debug (api-gateway): [Gateway] Check path=/v1/auth/login pattern matched=false
+[2025-06-13 13:45:43] debug (api-gateway): [Gateway] Check path=/v1/auth/refresh-token pattern matched=false
+[2025-06-13 13:45:43] debug (api-gateway): [Gateway] Check path=/v1/auth/refresh-token pattern matched=false
+[2025-06-13 13:45:44] error (api-gateway): [Proxy /v1/auth]
+[2025-06-13 13:46:18] debug (api-gateway): [Gateway] Check path=/v1/auth/login pattern matched=false
+[2025-06-13 13:46:18] debug (api-gateway): [Gateway] Check path=/v1/auth/login pattern matched=false
+[2025-06-13 13:46:31] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-13 13:46:31] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-13 13:46:32] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-13 13:47:12] debug (api-gateway): [Gateway] Check path=/v1/auth/login pattern matched=false
+[2025-06-13 13:47:12] debug (api-gateway): [Gateway] Check path=/v1/auth/login pattern matched=false
+[2025-06-13 13:47:24] debug (api-gateway): [Gateway] Check path=/v1/hr/register pattern matched=true
+[2025-06-13 13:47:24] info (api-gateway): Authenticated user: 49 with role: 9
+[2025-06-13 13:47:24] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 13:47:26] debug (api-gateway): [Gateway] Check path=/v1/hr/register pattern matched=true
+[2025-06-13 13:47:26] info (api-gateway): Authenticated user: 49 with role: 9
+[2025-06-13 13:47:26] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 14:19:28] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-13 14:19:28] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-13 14:19:28] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-13 15:22:17] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-13 15:22:17] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-13 15:22:17] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-16 10:02:34] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-16 10:02:34] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-16 10:02:34] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-16 11:05:10] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-16 11:05:10] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-16 11:05:10] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-16 11:08:53] debug (api-gateway): [Gateway] Check path=/v1/auth/getAllRole pattern matched=false
+[2025-06-16 11:08:53] debug (api-gateway): [Gateway] Check path=/v1/auth/getAllRole pattern matched=false
+[2025-06-16 11:08:53] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 11:10:56] debug (api-gateway): [Gateway] Check path=/v1/auth/role pattern matched=false
+[2025-06-16 11:10:56] debug (api-gateway): [Gateway] Check path=/v1/auth/role pattern matched=false
+[2025-06-16 11:10:56] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 11:11:42] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-16 11:11:42] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-16 11:11:42] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-16 11:11:53] debug (api-gateway): [Gateway] Check path=/v1/auth/roles pattern matched=false
+[2025-06-16 11:11:53] debug (api-gateway): [Gateway] Check path=/v1/auth/roles pattern matched=false
+[2025-06-16 11:11:53] debug (api-gateway): [Gateway] Check path=/v1/auth/roles pattern matched=true
+[2025-06-16 11:11:53] error (api-gateway): [GET] /v1/auth/roles → 401: Invalid or missing token Invalid or missing token
+[2025-06-16 11:12:04] debug (api-gateway): [Gateway] Check path=/v1/auth/login pattern matched=false
+[2025-06-16 11:12:04] debug (api-gateway): [Gateway] Check path=/v1/auth/login pattern matched=false
+[2025-06-16 11:12:04] debug (api-gateway): [Gateway] Check path=/v1/auth/login pattern matched=false
+[2025-06-16 11:12:26] debug (api-gateway): [Gateway] Check path=/v1/auth/roles pattern matched=false
+[2025-06-16 11:12:26] debug (api-gateway): [Gateway] Check path=/v1/auth/roles pattern matched=false
+[2025-06-16 11:12:26] debug (api-gateway): [Gateway] Check path=/v1/auth/roles pattern matched=true
+[2025-06-16 11:12:26] info (api-gateway): Authenticated user: 45 with role: admin
+[2025-06-16 11:12:26] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 11:12:53] debug (api-gateway): [Gateway] Check path=/v1/auth/roles pattern matched=false
+[2025-06-16 11:12:53] debug (api-gateway): [Gateway] Check path=/v1/auth/roles pattern matched=false
+[2025-06-16 11:12:53] debug (api-gateway): [Gateway] Check path=/v1/auth/roles pattern matched=true
+[2025-06-16 11:12:53] info (api-gateway): Authenticated user: 45 with role: admin
+[2025-06-16 11:12:53] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 11:13:43] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-16 11:13:43] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-16 11:13:43] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-16 11:13:56] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-16 11:13:56] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-16 11:13:56] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-16 11:14:02] debug (api-gateway): [Gateway] Check path=/v1/auth/roles pattern matched=false
+[2025-06-16 11:14:02] debug (api-gateway): [Gateway] Check path=/v1/auth/roles pattern matched=false
+[2025-06-16 11:14:02] debug (api-gateway): [Gateway] Check path=/v1/auth/roles pattern matched=true
+[2025-06-16 11:14:02] info (api-gateway): Authenticated user: 45 with role: admin
+[2025-06-16 11:14:02] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 11:14:20] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-16 11:14:20] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-16 11:14:20] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-16 11:15:02] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-16 11:15:02] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-16 11:15:02] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-16 11:15:04] debug (api-gateway): [Gateway] Check path=/v1/auth/roles pattern matched=false
+[2025-06-16 11:15:04] debug (api-gateway): [Gateway] Check path=/v1/auth/roles pattern matched=false
+[2025-06-16 11:15:04] debug (api-gateway): [Gateway] Check path=/v1/auth/roles pattern matched=true
+[2025-06-16 11:15:04] info (api-gateway): Authenticated user: 45 with role: admin
+[2025-06-16 11:15:04] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 11:15:24] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-16 11:15:24] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-16 11:15:24] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-16 11:16:10] debug (api-gateway): [Gateway] Check path=/v1/auth/roles pattern matched=false
+[2025-06-16 11:16:10] debug (api-gateway): [Gateway] Check path=/v1/auth/roles pattern matched=false
+[2025-06-16 11:16:10] debug (api-gateway): [Gateway] Check path=/v1/auth/roles pattern matched=true
+[2025-06-16 11:16:11] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 11:16:41] debug (api-gateway): [Gateway] Check path=/v1/auth/roles pattern matched=false
+[2025-06-16 11:16:41] debug (api-gateway): [Gateway] Check path=/v1/auth/roles pattern matched=false
+[2025-06-16 11:16:41] debug (api-gateway): [Gateway] Check path=/v1/auth/roles pattern matched=true
+[2025-06-16 11:17:07] debug (api-gateway): [Gateway] Check path=/v1/auth/roles pattern matched=false
+[2025-06-16 11:17:07] debug (api-gateway): [Gateway] Check path=/v1/auth/roles pattern matched=false
+[2025-06-16 11:17:07] debug (api-gateway): [Gateway] Check path=/v1/auth/roles pattern matched=true
+[2025-06-16 11:36:52] debug (api-gateway): [Gateway] Check path=/v1/auth/roleWithPermissions pattern matched=false
+[2025-06-16 11:36:52] debug (api-gateway): [Gateway] Check path=/v1/auth/roleWithPermissions pattern matched=false
+[2025-06-16 11:36:52] debug (api-gateway): [Gateway] Check path=/v1/auth/roleWithPermissions pattern matched=false
+[2025-06-16 11:36:52] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 11:37:04] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 11:37:04] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 11:37:04] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 11:37:04] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 11:37:36] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-16 11:37:36] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-16 11:37:36] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-16 11:37:39] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 11:37:39] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 11:37:39] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 11:37:39] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=true
+[2025-06-16 11:41:19] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 11:41:19] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 11:41:19] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 11:41:19] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=true
+[2025-06-16 11:41:22] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 11:41:22] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 11:41:22] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 11:41:22] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=true
+[2025-06-16 11:41:24] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 11:41:24] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 11:41:24] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 11:41:24] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=true
+[2025-06-16 11:41:25] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 11:41:25] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 11:41:25] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 11:41:25] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=true
+[2025-06-16 11:41:26] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 11:41:26] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 11:41:26] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 11:41:26] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=true
+[2025-06-16 13:33:30] debug (api-gateway): [Gateway] Check path=/v1/auth/login pattern matched=false
+[2025-06-16 13:33:30] debug (api-gateway): [Gateway] Check path=/v1/auth/login pattern matched=false
+[2025-06-16 13:33:30] debug (api-gateway): [Gateway] Check path=/v1/auth/login pattern matched=false
+[2025-06-16 13:33:30] debug (api-gateway): [Gateway] Check path=/v1/auth/login pattern matched=false
+[2025-06-16 13:33:45] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 13:33:45] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 13:33:45] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 13:33:45] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=true
+[2025-06-16 13:33:45] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 13:36:50] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 13:36:50] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 13:36:50] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 13:36:50] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=true
+[2025-06-16 13:36:50] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 13:36:53] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 13:36:53] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 13:36:53] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 13:36:53] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=true
+[2025-06-16 13:36:53] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 13:37:32] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 13:37:32] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 13:37:32] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 13:37:32] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=true
+[2025-06-16 13:37:32] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 13:37:40] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 13:37:40] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 13:37:40] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 13:37:40] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=true
+[2025-06-16 13:37:40] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 13:37:58] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 13:37:58] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 13:37:58] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 13:37:58] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=true
+[2025-06-16 13:37:58] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 13:40:07] debug (api-gateway): [Gateway] Check path=/v1/auth/login pattern matched=false
+[2025-06-16 13:40:07] debug (api-gateway): [Gateway] Check path=/v1/auth/login pattern matched=false
+[2025-06-16 13:40:07] debug (api-gateway): [Gateway] Check path=/v1/auth/login pattern matched=false
+[2025-06-16 13:40:07] debug (api-gateway): [Gateway] Check path=/v1/auth/login pattern matched=false
+[2025-06-16 13:40:23] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 13:40:23] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 13:40:23] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=false
+[2025-06-16 13:40:23] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions pattern matched=true
+[2025-06-16 13:52:10] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-16 13:52:10] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-16 13:52:10] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-16 13:52:17] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-16 13:52:17] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-16 13:52:17] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-16 14:01:58] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-16 14:01:58] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-16 14:01:58] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-16 14:02:16] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-16 14:02:16] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-16 14:02:16] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-16 14:02:18] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-16 14:02:18] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-16 14:02:18] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-16 14:02:19] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-16 14:02:19] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-16 14:02:19] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-16 14:02:19] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-16 14:02:19] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 14:03:04] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-16 14:03:04] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-16 14:03:04] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-16 14:03:04] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-16 14:03:04] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 14:04:15] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-16 14:04:15] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-16 14:04:15] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-16 14:04:15] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-16 14:04:54] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-16 14:04:54] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-16 14:04:54] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-16 14:04:59] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-16 14:04:59] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-16 14:04:59] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-16 14:05:10] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:05:10] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:05:10] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:05:10] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=true
+[2025-06-16 14:05:10] info (api-gateway): Authenticated user 45 with role admin
+[2025-06-16 14:05:10] debug (api-gateway): 🔍 Cache miss for role:admin:permissions, fetching from auth service...
+[2025-06-16 14:05:10] error (api-gateway): ❌ Auth handler error: Request failed with status code 404
+[2025-06-16 14:05:10] error (api-gateway): [GET] /v1/auth/roles/roleWithPermissions → 401: Invalid or missing token Invalid or missing token
+[2025-06-16 14:05:48] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-16 14:05:48] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-16 14:05:48] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-16 14:05:53] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-16 14:05:53] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-16 14:05:53] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-16 14:05:57] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:05:57] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:05:57] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:05:57] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=true
+[2025-06-16 14:05:57] info (api-gateway): Authenticated user 45 with role admin
+[2025-06-16 14:05:57] debug (api-gateway): 🔍 Cache miss for role:admin:permissions, fetching from auth service...
+[2025-06-16 14:05:57] error (api-gateway): ❌ Auth handler error: Request failed with status code 500
+[2025-06-16 14:05:57] error (api-gateway): [GET] /v1/auth/roles/roleWithPermissions → 401: Invalid or missing token Invalid or missing token
+[2025-06-16 14:06:27] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-16 14:06:27] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-16 14:06:27] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-16 14:06:52] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-16 14:06:52] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-16 14:06:52] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-16 14:06:52] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-16 14:07:12] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:07:12] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:07:12] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:07:12] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=true
+[2025-06-16 14:07:12] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 14:07:12] debug (api-gateway): 🔍 Cache miss for role:5:permissions, fetching from auth service...
+[2025-06-16 14:07:13] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 14:08:32] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-16 14:08:32] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-16 14:08:32] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-16 14:08:32] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-16 14:08:49] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:08:49] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:08:49] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:08:49] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=true
+[2025-06-16 14:08:49] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 14:08:49] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 14:09:41] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-16 14:09:41] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-16 14:09:41] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-16 14:13:13] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:13:13] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:13:13] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:13:13] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=true
+[2025-06-16 14:13:13] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 14:13:13] debug (api-gateway): 🔍 Cache miss for role:5:permissions, fetching from auth service...
+[2025-06-16 14:13:14] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 14:14:27] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:14:27] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:14:27] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:14:27] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=true
+[2025-06-16 14:14:27] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 14:14:27] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 14:14:55] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:14:55] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:14:55] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:14:55] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=true
+[2025-06-16 14:14:55] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 14:14:55] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 14:15:44] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:15:44] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:15:44] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:15:44] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=true
+[2025-06-16 14:15:44] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 14:15:44] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 14:15:53] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:15:53] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:15:53] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:15:53] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=true
+[2025-06-16 14:15:53] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 14:15:53] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 14:16:02] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-16 14:16:02] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-16 14:16:02] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-16 14:16:02] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-16 14:16:16] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:16:16] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:16:16] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:16:16] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=true
+[2025-06-16 14:16:16] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 14:16:16] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 14:16:51] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:16:51] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:16:51] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:16:51] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=true
+[2025-06-16 14:16:51] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 14:16:51] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 14:18:15] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:18:15] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:18:15] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:18:15] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=true
+[2025-06-16 14:18:15] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 14:21:24] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:21:24] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:21:24] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:21:24] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=true
+[2025-06-16 14:21:24] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 14:21:26] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:21:26] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:21:26] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:21:26] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=true
+[2025-06-16 14:21:26] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 14:21:27] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:21:27] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:21:27] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:21:27] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=true
+[2025-06-16 14:21:27] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 14:21:28] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:21:28] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:21:28] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:21:28] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=true
+[2025-06-16 14:21:28] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 14:21:29] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:21:29] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:21:29] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:21:29] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=true
+[2025-06-16 14:21:29] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 14:21:30] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:21:30] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:21:30] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:21:30] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=true
+[2025-06-16 14:21:30] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 14:21:31] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:21:31] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:21:31] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:21:31] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=true
+[2025-06-16 14:21:31] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 14:21:33] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:21:33] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:21:33] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:21:33] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=true
+[2025-06-16 14:21:33] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 14:21:34] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:21:34] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:21:34] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:21:34] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=true
+[2025-06-16 14:21:34] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 14:21:35] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:21:35] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:21:35] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:21:35] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=true
+[2025-06-16 14:21:35] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 14:21:36] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:21:36] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:21:36] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:21:36] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=true
+[2025-06-16 14:21:36] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 14:21:37] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:21:37] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:21:37] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 14:21:37] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=true
+[2025-06-16 14:21:37] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 15:19:41] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-16 15:19:41] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-16 15:19:41] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-16 15:24:59] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-16 15:24:59] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-16 15:24:59] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-16 15:24:59] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-16 15:25:14] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 15:25:14] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 15:25:14] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-16 15:25:14] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=true
+[2025-06-16 15:25:14] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 15:25:14] debug (api-gateway): 🔍 Cache miss for role:5:permissions, fetching from auth service...
+[2025-06-16 15:25:31] debug (api-gateway): [Gateway] Check path=/v1/hr/register matched=true
+[2025-06-16 15:25:31] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 15:25:32] error (api-gateway): [Proxy /v1/hr]
+[2025-06-16 15:25:37] debug (api-gateway): [Gateway] Check path=/v1/hr/register matched=true
+[2025-06-16 15:25:37] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 15:26:28] debug (api-gateway): [Gateway] Check path=/v1/hr/register matched=true
+[2025-06-16 15:26:28] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 15:29:36] debug (api-gateway): [Gateway] Check path=/v1/hr/register matched=true
+[2025-06-16 15:29:36] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 15:29:36] error (api-gateway): [Proxy /v1/hr]
+[2025-06-16 15:29:42] debug (api-gateway): [Gateway] Check path=/v1/hr/register matched=true
+[2025-06-16 15:29:42] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 16:01:01] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-16 16:01:01] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-16 16:01:01] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-16 16:01:10] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-16 16:01:10] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-16 16:01:10] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-16 16:12:21] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-16 16:12:21] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-16 16:12:21] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-16 16:19:54] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-16 16:19:54] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-16 16:19:54] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-16 16:20:05] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-16 16:20:05] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-16 16:20:05] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-16 16:20:20] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-16 16:20:20] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-16 16:20:20] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-16 16:20:43] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-16 16:20:43] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-16 16:20:43] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-16 16:23:47] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-16 16:23:47] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-16 16:23:47] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-16 16:23:47] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-16 16:24:07] debug (api-gateway): [Gateway] Check path=/v1/hr/register matched=true
+[2025-06-16 16:24:07] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 16:46:00] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-16 16:46:00] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-16 16:46:00] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-16 19:18:54] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-16 19:18:54] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-16 19:18:54] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-16 19:20:00] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-16 19:20:00] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-16 19:20:00] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-16 19:20:01] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-16 19:20:01] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-16 19:20:01] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-16 19:28:26] debug (api-gateway): [Gateway] Check path=/v1/hr/register matched=true
+[2025-06-16 19:28:26] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 19:28:26] debug (api-gateway): 🔍 Cache miss for role:5:permissions, fetching from auth service...
+[2025-06-16 19:28:28] error (api-gateway): [Proxy /v1/hr]
+[2025-06-16 19:28:40] debug (api-gateway): [Gateway] Check path=/v1/hr/register matched=true
+[2025-06-16 19:28:40] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 19:35:44] debug (api-gateway): [Gateway] Check path=/v1/hr/register matched=true
+[2025-06-16 19:35:44] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 19:55:25] debug (api-gateway): [Gateway] Check path=/v1/hr/register matched=true
+[2025-06-16 19:55:25] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 19:55:26] error (api-gateway): [Proxy /v1/hr]
+[2025-06-16 19:55:31] debug (api-gateway): [Gateway] Check path=/v1/hr/register matched=true
+[2025-06-16 19:55:31] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 19:56:04] debug (api-gateway): [Gateway] Check path=/v1/hr/register matched=true
+[2025-06-16 19:56:04] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 19:56:05] error (api-gateway): [Proxy /v1/hr]
+[2025-06-16 19:56:10] debug (api-gateway): [Gateway] Check path=/v1/hr/register matched=true
+[2025-06-16 19:56:10] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 19:59:48] debug (api-gateway): [Gateway] Check path=/v1/hr/register matched=true
+[2025-06-16 19:59:48] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 20:07:11] debug (api-gateway): [Gateway] Check path=/v1/hr/register matched=true
+[2025-06-16 20:07:11] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 20:09:34] debug (api-gateway): [Gateway] Check path=/v1/hr/register matched=true
+[2025-06-16 20:09:34] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 20:09:35] error (api-gateway): [Proxy /v1/hr]
+[2025-06-16 20:09:37] debug (api-gateway): [Gateway] Check path=/v1/hr/register matched=true
+[2025-06-16 20:09:37] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 20:19:28] debug (api-gateway): [Gateway] Check path=/v1/hr/register matched=true
+[2025-06-16 20:19:28] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 20:22:51] debug (api-gateway): [Gateway] Check path=/v1/hr/register matched=true
+[2025-06-16 20:22:51] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 20:31:45] debug (api-gateway): [Gateway] Check path=/v1/hr/register matched=true
+[2025-06-16 20:31:45] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 20:31:45] debug (api-gateway): 🔍 Cache miss for role:5:permissions, fetching from auth service...
+[2025-06-16 20:31:45] error (api-gateway): ❌ Auth handler error: 
+[2025-06-16 20:31:45] error (api-gateway): [POST] /v1/hr/register → 401: Invalid or missing token Invalid or missing token
+[2025-06-16 20:32:10] debug (api-gateway): [Gateway] Check path=/v1/hr/register matched=true
+[2025-06-16 20:32:10] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 20:32:10] debug (api-gateway): 🔍 Cache miss for role:5:permissions, fetching from auth service...
+[2025-06-16 20:32:12] error (api-gateway): [Proxy /v1/hr]
+[2025-06-16 20:32:15] debug (api-gateway): [Gateway] Check path=/v1/hr/register matched=true
+[2025-06-16 20:32:15] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 20:34:06] debug (api-gateway): [Gateway] Check path=/v1/hr/register matched=true
+[2025-06-16 20:34:06] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-16 20:38:07] debug (api-gateway): [Gateway] Check path=/v1/hr/register matched=true
+[2025-06-16 20:38:07] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-17 08:51:25] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-17 08:51:25] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-17 08:51:25] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-17 08:52:22] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-17 08:52:22] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-17 08:52:22] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-17 08:52:22] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=true
+[2025-06-17 08:52:22] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-17 08:52:22] debug (api-gateway): 🔍 Cache miss for role:5:permissions, fetching from auth service...
+[2025-06-17 09:33:18] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-17 09:33:18] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-17 09:33:18] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-17 09:33:23] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-17 09:33:23] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-17 09:33:23] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-17 09:44:08] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 09:44:08] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 09:44:08] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 09:44:08] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 09:44:08] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=true
+[2025-06-17 09:44:08] info (api-gateway): Authenticated user 45 with role admin
+[2025-06-17 09:44:08] debug (api-gateway): 🔍 Cache miss for role:admin:permissions, fetching from auth service...
+[2025-06-17 09:44:08] error (api-gateway): ❌ Auth handler error: Request failed with status code 401
+[2025-06-17 09:44:08] error (api-gateway): [GET] /v1/auth/permissions/all → 401: Invalid or missing token Invalid or missing token
+[2025-06-17 09:44:25] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-17 09:44:25] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-17 09:44:25] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-17 09:44:25] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-17 09:44:25] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-17 09:44:25] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-17 09:44:38] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 09:44:38] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 09:44:38] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 09:44:38] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 09:44:38] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=true
+[2025-06-17 09:44:38] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-17 09:44:38] error (api-gateway): [Proxy /v1/auth]
+[2025-06-17 09:45:37] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 09:45:37] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 09:45:37] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 09:45:37] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 09:45:37] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=true
+[2025-06-17 09:45:37] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-17 09:45:37] error (api-gateway): [Proxy /v1/auth]
+[2025-06-17 09:46:26] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 09:46:26] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 09:46:26] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 09:46:26] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 09:46:26] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=true
+[2025-06-17 09:46:26] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-17 09:46:27] error (api-gateway): [Proxy /v1/auth]
+[2025-06-17 10:14:58] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:14:58] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:14:58] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:14:58] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:14:58] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=true
+[2025-06-17 10:14:58] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-17 10:14:58] debug (api-gateway): 🔍 Cache miss for role:5:permissions, fetching from auth service...
+[2025-06-17 10:14:58] error (api-gateway): ❌ Auth handler error: Request failed with status code 401
+[2025-06-17 10:14:58] error (api-gateway): [GET] /v1/auth/permissions/all → 401: Invalid or missing token Invalid or missing token
+[2025-06-17 10:15:02] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:15:02] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:15:02] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:15:02] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:15:02] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=true
+[2025-06-17 10:15:02] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-17 10:15:02] debug (api-gateway): 🔍 Cache miss for role:5:permissions, fetching from auth service...
+[2025-06-17 10:15:02] error (api-gateway): ❌ Auth handler error: Request failed with status code 401
+[2025-06-17 10:15:02] error (api-gateway): [GET] /v1/auth/permissions/all → 401: Invalid or missing token Invalid or missing token
+[2025-06-17 10:15:30] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:15:30] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:15:30] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:15:30] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:15:30] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=true
+[2025-06-17 10:15:30] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-17 10:15:30] debug (api-gateway): 🔍 Cache miss for role:5:permissions, fetching from auth service...
+[2025-06-17 10:15:30] error (api-gateway): ❌ Auth handler error: Request failed with status code 401
+[2025-06-17 10:15:30] error (api-gateway): [GET] /v1/auth/permissions/all → 401: Invalid or missing token Invalid or missing token
+[2025-06-17 10:15:34] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-17 10:15:34] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-17 10:15:34] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-17 10:15:34] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-17 10:15:34] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-17 10:15:34] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-17 10:15:46] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:15:46] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:15:46] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:15:46] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:15:46] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=true
+[2025-06-17 10:15:46] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-17 10:15:47] debug (api-gateway): 🔍 Cache miss for role:5:permissions, fetching from auth service...
+[2025-06-17 10:15:47] error (api-gateway): ❌ Auth handler error: Request failed with status code 401
+[2025-06-17 10:15:47] error (api-gateway): [GET] /v1/auth/permissions/all → 401: Invalid or missing token Invalid or missing token
+[2025-06-17 10:17:28] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-17 10:17:28] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-17 10:17:28] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-17 10:17:28] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-17 10:17:28] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=true
+[2025-06-17 10:17:28] info (api-gateway): Authenticated user 45 with role admin
+[2025-06-17 10:17:28] debug (api-gateway): 🔍 Cache miss for role:admin:permissions, fetching from auth service...
+[2025-06-17 10:17:28] error (api-gateway): ❌ Auth handler error: Request failed with status code 401
+[2025-06-17 10:17:28] error (api-gateway): [GET] /v1/auth/permissions/5 → 401: Invalid or missing token Invalid or missing token
+[2025-06-17 10:17:36] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-17 10:17:36] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-17 10:17:36] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-17 10:17:36] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-17 10:17:36] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-17 10:17:36] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-17 10:17:50] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:17:50] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:17:50] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:17:50] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:17:50] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=true
+[2025-06-17 10:17:50] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-17 10:17:50] debug (api-gateway): 🔍 Cache miss for role:5:permissions, fetching from auth service...
+[2025-06-17 10:17:50] error (api-gateway): ❌ Auth handler error: Request failed with status code 401
+[2025-06-17 10:17:50] error (api-gateway): [GET] /v1/auth/permissions/all → 401: Invalid or missing token Invalid or missing token
+[2025-06-17 10:18:25] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-17 10:18:25] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-17 10:18:25] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-17 10:18:27] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:18:27] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:18:27] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:18:27] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:18:27] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=true
+[2025-06-17 10:18:27] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-17 10:18:27] debug (api-gateway): 🔍 Cache miss for role:5:permissions, fetching from auth service...
+[2025-06-17 10:18:27] error (api-gateway): ❌ Auth handler error: Request failed with status code 401
+[2025-06-17 10:18:27] error (api-gateway): [GET] /v1/auth/permissions/all → 401: Invalid or missing token Invalid or missing token
+[2025-06-17 10:18:54] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-17 10:18:54] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-17 10:18:54] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-17 10:19:28] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:19:28] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:19:28] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:19:28] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:19:28] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=true
+[2025-06-17 10:19:28] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-17 10:19:28] debug (api-gateway): 🔍 Cache miss for role:5:permissions, fetching from auth service...
+[2025-06-17 10:19:28] error (api-gateway): [Proxy /v1/auth]
+[2025-06-17 10:25:57] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:25:57] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:25:57] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:25:57] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:25:57] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=true
+[2025-06-17 10:25:57] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-17 10:25:58] error (api-gateway): [Proxy /v1/auth]
+[2025-06-17 10:26:31] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:26:31] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:26:31] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:26:31] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:26:31] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=true
+[2025-06-17 10:26:31] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-17 10:26:31] error (api-gateway): [Proxy /v1/auth]
+[2025-06-17 10:27:44] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-17 10:27:44] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-17 10:27:44] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-17 10:27:48] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:27:48] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:27:48] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:27:48] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:27:48] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=true
+[2025-06-17 10:27:48] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-17 10:27:48] error (api-gateway): [Proxy /v1/auth]
+[2025-06-17 10:28:53] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:28:53] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:28:53] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:28:53] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:28:53] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=true
+[2025-06-17 10:28:53] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-17 10:28:54] error (api-gateway): [Proxy /v1/auth]
+[2025-06-17 10:30:54] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-17 10:30:54] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-17 10:30:54] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-17 10:30:56] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:30:56] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:30:56] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:30:56] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:30:56] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=true
+[2025-06-17 10:30:56] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-17 10:30:56] error (api-gateway): [Proxy /v1/auth]
+[2025-06-17 10:31:35] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-17 10:31:35] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-17 10:31:35] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=false
+[2025-06-17 10:31:35] debug (api-gateway): [Gateway] Check path=/v1/auth/roles/roleWithPermissions matched=true
+[2025-06-17 10:31:35] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-17 10:32:06] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-17 10:32:06] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-17 10:32:06] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-17 10:32:06] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-17 10:32:06] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-17 10:32:06] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=true
+[2025-06-17 10:32:06] info (api-gateway): Authenticated user 45 with role admin
+[2025-06-17 10:32:06] debug (api-gateway): 🔍 Cache miss for role:admin:permissions, fetching from auth service...
+[2025-06-17 10:32:06] debug (api-gateway): Requesting permissions for role admin from auth service
+[2025-06-17 10:32:06] error (api-gateway): ❌ Auth handler error: Request failed with status code 500
+[2025-06-17 10:32:06] error (api-gateway): [GET] /v1/auth/permissions/5 → 401: Invalid or missing token Invalid or missing token
+[2025-06-17 10:33:14] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-17 10:33:14] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-17 10:33:14] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-17 10:33:14] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-17 10:33:14] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-17 10:33:14] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=true
+[2025-06-17 10:33:14] info (api-gateway): Authenticated user 45 with role admin
+[2025-06-17 10:33:14] debug (api-gateway): 🔍 Cache miss for role:admin:permissions, fetching from auth service...
+[2025-06-17 10:33:14] debug (api-gateway): Requesting permissions for role admin from auth service
+[2025-06-17 10:33:15] error (api-gateway): ❌ Auth handler error: Request failed with status code 500
+[2025-06-17 10:33:15] error (api-gateway): [GET] /v1/auth/permissions/5 → 401: Invalid or missing token Invalid or missing token
+[2025-06-17 10:33:25] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:33:25] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:33:25] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:33:25] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:33:25] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=true
+[2025-06-17 10:33:25] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-17 10:33:25] error (api-gateway): [Proxy /v1/auth]
+[2025-06-17 10:35:39] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:35:39] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:35:39] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:35:39] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-17 10:35:39] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=true
+[2025-06-17 10:35:39] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-17 10:35:46] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-17 10:35:46] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-17 10:35:46] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-17 10:35:46] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-17 10:35:46] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-17 10:35:46] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=true
+[2025-06-17 10:35:46] info (api-gateway): Authenticated user 45 with role admin
+[2025-06-17 10:35:46] debug (api-gateway): 🔍 Cache miss for role:admin:permissions, fetching from auth service...
+[2025-06-17 10:35:46] debug (api-gateway): Requesting permissions for role admin from auth service
+[2025-06-17 10:35:46] error (api-gateway): ❌ Auth handler error: Request failed with status code 500
+[2025-06-17 10:35:46] error (api-gateway): [GET] /v1/auth/permissions/5 → 401: Invalid or missing token Invalid or missing token
+[2025-06-17 10:36:26] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-17 10:36:26] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-17 10:36:26] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-17 10:36:26] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-17 10:36:26] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-17 10:36:26] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=true
+[2025-06-17 10:36:26] info (api-gateway): Authenticated user 45 with role admin
+[2025-06-17 10:36:26] debug (api-gateway): 🔍 Cache miss for role:admin:permissions, fetching from auth service...
+[2025-06-17 10:36:26] debug (api-gateway): Requesting permissions for role admin from auth service
+[2025-06-17 10:36:27] error (api-gateway): ❌ Auth handler error: Request failed with status code 500
+[2025-06-17 10:36:27] error (api-gateway): [GET] /v1/auth/permissions/5 → 401: Invalid or missing token Invalid or missing token
+[2025-06-17 10:37:02] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-17 10:37:02] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-17 10:37:02] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-17 10:37:02] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-17 10:37:02] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-17 10:37:02] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=true
+[2025-06-17 10:37:02] info (api-gateway): Authenticated user 45 with role admin
+[2025-06-17 10:37:02] debug (api-gateway): 🔍 Cache miss for role:admin:permissions, fetching from auth service...
+[2025-06-17 10:37:02] debug (api-gateway): Requesting permissions for role admin from auth service
+[2025-06-17 10:37:03] error (api-gateway): ❌ Auth handler error: Request failed with status code 500
+[2025-06-17 10:37:03] error (api-gateway): [GET] /v1/auth/permissions/5 → 401: Invalid or missing token Invalid or missing token
+[2025-06-17 10:37:41] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-17 10:37:41] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-17 10:37:41] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-17 10:37:41] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-17 10:37:41] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-17 10:37:41] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-17 10:37:56] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-17 10:37:56] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-17 10:37:56] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-17 10:37:56] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-17 10:37:56] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=false
+[2025-06-17 10:37:56] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/5 matched=true
+[2025-06-17 10:37:56] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-18 09:30:41] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-18 09:30:41] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-18 09:30:41] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-18 09:31:09] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:31:09] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:31:09] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:31:09] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:31:09] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:31:09] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:31:11] error (api-gateway): [Proxy /v1/auth]
+[2025-06-18 09:32:26] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:32:26] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:32:26] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:32:26] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:32:26] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:32:26] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:32:27] error (api-gateway): [Proxy /v1/auth]
+[2025-06-18 09:32:42] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:32:42] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:32:42] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:32:42] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:32:42] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:32:42] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:32:42] error (api-gateway): [Proxy /v1/auth]
+[2025-06-18 09:35:40] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-18 09:35:40] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-18 09:35:40] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-18 09:35:48] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-18 09:35:48] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-18 09:35:48] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-18 09:36:44] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:36:44] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:36:44] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:36:44] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:36:44] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:36:44] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:36:45] error (api-gateway): [Proxy /v1/auth]
+[2025-06-18 09:38:30] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:38:30] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:38:30] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:38:30] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:38:30] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:38:30] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:38:31] error (api-gateway): [Proxy /v1/auth]
+[2025-06-18 09:41:02] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-18 09:41:02] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-18 09:41:02] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-18 09:41:04] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:41:04] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:41:04] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:41:04] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:41:04] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:41:04] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:51:23] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-18 09:51:23] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-18 09:51:23] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-18 09:51:37] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:51:37] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:51:37] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:51:37] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:51:37] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:51:37] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 09:51:39] error (api-gateway): [Proxy /v1/auth]
+[2025-06-18 10:07:23] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:07:23] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:07:23] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:07:23] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:07:23] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:07:23] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:07:25] error (api-gateway): [Proxy /v1/auth]
+[2025-06-18 10:07:50] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:07:50] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:07:50] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:07:50] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:07:50] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:07:50] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:08:26] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:08:26] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:08:26] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:08:26] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:08:26] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:08:26] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:09:18] debug (api-gateway): [Gateway] Check path=/v1/auth/roles matched=false
+[2025-06-18 10:09:18] debug (api-gateway): [Gateway] Check path=/v1/auth/roles matched=false
+[2025-06-18 10:09:18] debug (api-gateway): [Gateway] Check path=/v1/auth/roles matched=true
+[2025-06-18 10:09:18] error (api-gateway): ❌ Auth handler error: Invalid token
+[2025-06-18 10:09:18] error (api-gateway): [GET] /v1/auth/roles → 401: Invalid or missing token Invalid or missing token
+[2025-06-18 10:09:28] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:09:28] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:09:28] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:09:28] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:09:28] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=true
+[2025-06-18 10:09:28] error (api-gateway): ❌ Auth handler error: Invalid token
+[2025-06-18 10:09:28] error (api-gateway): [GET] /v1/auth/permissions/all → 401: Invalid or missing token Invalid or missing token
+[2025-06-18 10:09:35] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-18 10:09:35] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-18 10:09:35] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-18 10:09:38] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:09:38] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:09:38] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:09:38] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:09:38] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=true
+[2025-06-18 10:09:38] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-18 10:09:38] debug (api-gateway): 🔍 Cache miss for role:5:permissions, fetching from auth service...
+[2025-06-18 10:09:38] debug (api-gateway): Requesting permissions for role 5 from auth service
+[2025-06-18 10:14:26] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-18 10:14:26] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-18 10:14:26] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-18 10:18:37] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-18 10:18:37] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-18 10:18:37] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-18 10:19:06] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:19:06] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:19:06] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:19:06] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:19:06] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=true
+[2025-06-18 10:19:06] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-18 10:19:15] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:15] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:15] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:15] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:15] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:15] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:20] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:20] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:20] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:20] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:20] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:20] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:22] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:22] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:22] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:22] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:22] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:22] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:23] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:23] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:23] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:23] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:23] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:23] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:26] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:26] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:26] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:26] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:26] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:26] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:28] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:28] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:28] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:28] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:28] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:28] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:28] error (api-gateway): [Proxy /v1/auth]
+[2025-06-18 10:19:29] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:29] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:29] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:29] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:29] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:29] debug (api-gateway): [Gateway] Check path=/v1/auth/login matched=false
+[2025-06-18 10:19:29] error (api-gateway): [Proxy /v1/auth]
+[2025-06-18 10:19:35] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:19:35] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:19:35] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:19:35] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:19:35] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=true
+[2025-06-18 10:19:35] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-18 10:19:36] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:19:36] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:19:36] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:19:36] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:19:36] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=true
+[2025-06-18 10:19:36] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-18 10:19:37] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:19:37] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:19:37] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:19:37] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:19:37] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=true
+[2025-06-18 10:19:37] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-18 10:19:38] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:19:38] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:19:38] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:19:38] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:19:38] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=true
+[2025-06-18 10:19:38] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-18 10:19:39] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:19:39] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:19:39] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:19:39] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:19:39] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=true
+[2025-06-18 10:19:39] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-18 10:19:41] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:19:41] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:19:41] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:19:41] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:19:41] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=true
+[2025-06-18 10:19:41] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-18 10:19:42] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:19:42] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:19:42] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:19:42] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:19:42] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=true
+[2025-06-18 10:19:42] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-18 10:19:42] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:19:42] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:19:42] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:19:42] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
+[2025-06-18 10:19:42] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=true
+[2025-06-18 10:19:42] info (api-gateway): Authenticated user 45 with role 5

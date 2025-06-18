@@ -1,0 +1,264 @@
+[2025-06-09 14:52:10] error (api-gateway): [Proxy /v1/hr]
+[2025-06-09 15:04:25] error (api-gateway): [Proxy /v1/hr]
+[2025-06-09 15:05:23] error (api-gateway): [Proxy /v1/hr]
+[2025-06-09 15:06:06] error (api-gateway): [Proxy /v1/hr]
+[2025-06-09 15:06:49] error (api-gateway): [Proxy /v1/hr]
+[2025-06-09 15:08:14] error (api-gateway): [Proxy /v1/hr]
+[2025-06-09 15:08:44] error (api-gateway): [Proxy /v1/hr]
+[2025-06-09 15:09:11] error (api-gateway): [Proxy /v1/hr]
+[2025-06-09 15:09:26] error (api-gateway): [Proxy /v1/hr]
+[2025-06-09 15:14:24] error (api-gateway): [Proxy /v1/hr]
+[2025-06-09 15:15:14] error (api-gateway): [Proxy /v1/hr]
+[2025-06-09 15:16:01] error (api-gateway): [Proxy /v1/hr]
+[2025-06-09 15:16:13] error (api-gateway): [Proxy /v1/hr]
+[2025-06-09 15:19:32] error (api-gateway): [Proxy /v1/hr]
+[2025-06-09 15:21:31] error (api-gateway): [Proxy /v1/hr]
+[2025-06-09 15:22:43] error (api-gateway): [Proxy /v1/hr]
+[2025-06-09 15:43:46] error (api-gateway): [Proxy /v1/hr]
+[2025-06-09 15:55:44] error (api-gateway): [Proxy /v1/hr]
+[2025-06-09 20:20:31] error (api-gateway): [Proxy /v1/hr]
+[2025-06-09 20:51:59] error (api-gateway): [Proxy /v1/hr]
+[2025-06-09 20:53:35] error (api-gateway): [Proxy /v1/hr]
+[2025-06-09 20:56:30] error (api-gateway): [Proxy /v1/hr]
+[2025-06-09 20:57:52] error (api-gateway): [Proxy /v1/hr]
+[2025-06-09 21:00:39] error (api-gateway): [Proxy /v1/hr]
+[2025-06-09 21:14:13] error (api-gateway): [Proxy /v1/hr]
+[2025-06-09 21:15:46] error (api-gateway): [Proxy /v1/hr]
+[2025-06-09 21:21:47] error (api-gateway): [Proxy /v1/hr]
+[2025-06-09 21:22:48] error (api-gateway): [Proxy /v1/hr]
+[2025-06-09 21:23:42] error (api-gateway): [Proxy /v1/hr]
+[2025-06-09 21:25:25] error (api-gateway): [Proxy /v1/hr]
+[2025-06-10 13:09:54] error (api-gateway): [Proxy /v1/hr]
+[2025-06-10 14:32:20] error (api-gateway): [Proxy /v1/hr]
+[2025-06-10 14:37:41] error (api-gateway): [Proxy /v1/hr]
+[2025-06-10 14:38:05] error (api-gateway): [Proxy /v1/hr]
+[2025-06-10 15:26:09] error (api-gateway): [Proxy /v1/hr]
+[2025-06-10 15:31:23] error (api-gateway): [Proxy /v1/hr]
+[2025-06-10 15:33:44] error (api-gateway): [Proxy /v1/hr]
+[2025-06-10 20:20:24] error (api-gateway): [Proxy /v1/auth]
+[2025-06-10 20:28:44] error (api-gateway): [GET] /v1/hr/:id → Invalid or missing token: UNAUTHORIZED UNAUTHORIZED
+[2025-06-10 20:29:13] error (api-gateway): [GET] /v1/hr/:id → 401: Invalid or missing token Invalid or missing token
+[2025-06-10 20:29:53] error (api-gateway): [Proxy /v1/hr]
+[2025-06-10 20:32:10] error (api-gateway): [Proxy /v1/hr]
+[2025-06-10 20:33:03] error (api-gateway): [Proxy /v1/hr]
+[2025-06-10 20:33:13] error (api-gateway): [Proxy /v1/hr]
+[2025-06-10 20:56:06] error (api-gateway): [Proxy /v1/hr]
+[2025-06-10 20:57:15] error (api-gateway): [Proxy /v1/hr]
+[2025-06-10 20:57:35] error (api-gateway): [Proxy /v1/hr]
+[2025-06-10 21:02:43] error (api-gateway): [Proxy /v1/hr]
+[2025-06-10 21:03:10] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 10:04:16] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 10:04:57] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 10:06:28] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 10:06:45] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 10:10:09] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 10:10:27] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 10:15:52] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 10:18:12] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 10:19:28] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 10:21:34] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 10:22:08] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 10:22:41] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 10:23:56] error (api-gateway): [GET] /v1/hr/42 → 500: regexp.test is not a function regexp.test is not a function
+[2025-06-11 10:25:50] error (api-gateway): [GET] /v1/hr/42 → 500: regexp.test is not a function regexp.test is not a function
+[2025-06-11 10:39:58] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 10:48:05] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 11:18:48] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 11:18:52] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 11:18:53] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 11:19:23] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 11:23:05] error (api-gateway): [GET] /v1/hr/42 → Invalid or missing token: UNAUTHORIZED UNAUTHORIZED
+[2025-06-11 11:23:19] error (api-gateway): [GET] /v1/hr/42 → 401: Invalid or missing token Invalid or missing token
+[2025-06-11 11:25:16] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 11:30:01] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 11:30:18] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 13:17:17] error (api-gateway): [GET] /v1/hr/42 → 401: Invalid or missing token Invalid or missing token
+[2025-06-11 13:17:22] error (api-gateway): [GET] /v1/hr/42 → 401: Invalid or missing token Invalid or missing token
+[2025-06-11 13:20:55] error (api-gateway): [GET] /v1/hr/42 → 401: Token expired at 2025-06-11T04:39:32.000Z Token expired at 2025-06-11T04:39:32.000Z
+[2025-06-11 13:21:41] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 13:23:57] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 13:24:41] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 13:40:53] error (api-gateway): [GET] /v1/hr/42 → 401: Token expired at 2025-06-11T06:36:27.000Z Token expired at 2025-06-11T06:36:27.000Z
+[2025-06-11 13:41:19] error (api-gateway): [GET] /v1/hr/42 → 401: Token expired at 2025-06-11T06:36:27.000Z Token expired at 2025-06-11T06:36:27.000Z
+[2025-06-11 13:41:38] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 13:45:49] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 13:47:28] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 13:49:49] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 13:50:47] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 13:50:58] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 13:55:35] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 13:56:00] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 14:04:52] error (api-gateway): [GET] /v1/auth/sessions → 401: Token expired at 2025-06-07T09:07:37.000Z Token expired at 2025-06-07T09:07:37.000Z
+[2025-06-11 14:05:03] error (api-gateway): [GET] /v1/auth/sessions → 401: Invalid or missing token Invalid or missing token
+[2025-06-11 14:05:22] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 14:05:27] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 14:06:22] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 14:07:06] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 14:07:14] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 14:07:29] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 14:11:00] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 14:12:04] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 14:15:05] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 14:21:25] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 14:22:27] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 14:23:03] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 14:23:51] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 14:24:40] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 14:25:18] error (api-gateway): [POST] /v1/auth/login → 400: Expected double-quoted property name in JSON at position 71 Expected double-quoted property name in JSON at position 71
+[2025-06-11 14:25:45] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 14:26:40] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 14:30:25] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 14:37:20] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 14:39:00] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 14:47:38] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 14:52:38] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 15:02:16] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 15:08:25] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 15:08:32] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 15:11:03] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 15:15:16] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 15:28:25] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 15:31:40] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 15:31:56] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 16:23:58] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 16:24:06] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 16:24:35] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 16:26:00] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 16:29:17] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 19:48:30] error (api-gateway): [POST] /v1/hr/register → 401: Invalid or missing token Invalid or missing token
+[2025-06-11 19:49:48] error (api-gateway): [POST] /v1/hr/register → 401: Invalid or missing token Invalid or missing token
+[2025-06-11 19:50:21] error (api-gateway): [POST] /v1/hr/register → 401: Invalid or missing token Invalid or missing token
+[2025-06-11 19:50:52] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 19:51:15] error (api-gateway): [GET] /v1/auth/session → 401: Invalid or missing token Invalid or missing token
+[2025-06-11 19:51:23] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 19:52:17] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 19:52:18] error (api-gateway): [Proxy /v1/auth]
+[2025-06-11 19:52:57] error (api-gateway): [POST] /v1/hr/register → 401: Invalid or missing token Invalid or missing token
+[2025-06-11 20:00:49] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 20:03:38] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 20:18:35] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 20:21:05] error (api-gateway): [Proxy /v1/hr]
+[2025-06-11 21:44:49] error (api-gateway): [POST] /v1/auth/login → Service at http://localhost:5000 is down or unreachable: SERVICE_UNAVAILABLE SERVICE_UNAVAILABLE
+[2025-06-11 21:46:53] error (api-gateway): [POST] /v1/auth/login → 503: Service at http://localhost:5000 is down or unreachable Service at http://localhost:5000 is down or unreachable
+[2025-06-12 08:35:51] error (api-gateway): [Proxy /v1/hr]
+[2025-06-12 08:36:01] error (api-gateway): [Proxy /v1/hr]
+[2025-06-12 08:36:06] error (api-gateway): [Proxy /v1/hr]
+[2025-06-12 15:51:55] error (api-gateway): [Proxy /v1/hr]
+[2025-06-12 15:55:15] error (api-gateway): [Proxy /v1/hr]
+[2025-06-12 15:55:35] error (api-gateway): [Proxy /v1/hr]
+[2025-06-12 15:55:47] error (api-gateway): [Proxy /v1/hr]
+[2025-06-12 15:57:31] error (api-gateway): [Proxy /v1/hr]
+[2025-06-12 15:58:09] error (api-gateway): [Proxy /v1/hr]
+[2025-06-12 15:58:35] error (api-gateway): [Proxy /v1/hr]
+[2025-06-12 16:01:35] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 11:52:21] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 11:52:28] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 11:53:53] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 11:54:14] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 11:55:02] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 11:55:15] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 11:55:39] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 11:55:46] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 11:55:49] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 11:55:54] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 11:59:06] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 11:59:08] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 13:09:21] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 13:13:57] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 13:30:39] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 13:31:24] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 13:31:53] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 13:42:25] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 13:44:11] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 13:45:44] error (api-gateway): [Proxy /v1/auth]
+[2025-06-13 13:47:24] error (api-gateway): [Proxy /v1/hr]
+[2025-06-13 13:47:26] error (api-gateway): [Proxy /v1/hr]
+[2025-06-16 11:08:53] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 11:10:56] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 11:11:53] error (api-gateway): [GET] /v1/auth/roles → 401: Invalid or missing token Invalid or missing token
+[2025-06-16 11:12:26] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 11:12:53] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 11:14:02] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 11:15:04] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 11:16:11] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 11:36:52] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 11:37:04] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 13:33:45] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 13:36:50] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 13:36:53] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 13:37:32] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 13:37:40] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 13:37:58] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 14:02:19] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 14:03:04] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 14:05:10] error (api-gateway): ❌ Auth handler error: Request failed with status code 404
+[2025-06-16 14:05:10] error (api-gateway): [GET] /v1/auth/roles/roleWithPermissions → 401: Invalid or missing token Invalid or missing token
+[2025-06-16 14:05:57] error (api-gateway): ❌ Auth handler error: Request failed with status code 500
+[2025-06-16 14:05:57] error (api-gateway): [GET] /v1/auth/roles/roleWithPermissions → 401: Invalid or missing token Invalid or missing token
+[2025-06-16 14:07:13] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 14:08:49] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 14:13:14] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 14:14:27] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 14:14:55] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 14:15:44] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 14:15:53] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 14:16:16] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 14:16:51] error (api-gateway): [Proxy /v1/auth]
+[2025-06-16 15:25:32] error (api-gateway): [Proxy /v1/hr]
+[2025-06-16 15:29:36] error (api-gateway): [Proxy /v1/hr]
+[2025-06-16 19:28:28] error (api-gateway): [Proxy /v1/hr]
+[2025-06-16 19:55:26] error (api-gateway): [Proxy /v1/hr]
+[2025-06-16 19:56:05] error (api-gateway): [Proxy /v1/hr]
+[2025-06-16 20:09:35] error (api-gateway): [Proxy /v1/hr]
+[2025-06-16 20:31:45] error (api-gateway): ❌ Auth handler error: 
+[2025-06-16 20:31:45] error (api-gateway): [POST] /v1/hr/register → 401: Invalid or missing token Invalid or missing token
+[2025-06-16 20:32:12] error (api-gateway): [Proxy /v1/hr]
+[2025-06-17 09:44:08] error (api-gateway): ❌ Auth handler error: Request failed with status code 401
+[2025-06-17 09:44:08] error (api-gateway): [GET] /v1/auth/permissions/all → 401: Invalid or missing token Invalid or missing token
+[2025-06-17 09:44:38] error (api-gateway): [Proxy /v1/auth]
+[2025-06-17 09:45:37] error (api-gateway): [Proxy /v1/auth]
+[2025-06-17 09:46:27] error (api-gateway): [Proxy /v1/auth]
+[2025-06-17 10:14:58] error (api-gateway): ❌ Auth handler error: Request failed with status code 401
+[2025-06-17 10:14:58] error (api-gateway): [GET] /v1/auth/permissions/all → 401: Invalid or missing token Invalid or missing token
+[2025-06-17 10:15:02] error (api-gateway): ❌ Auth handler error: Request failed with status code 401
+[2025-06-17 10:15:02] error (api-gateway): [GET] /v1/auth/permissions/all → 401: Invalid or missing token Invalid or missing token
+[2025-06-17 10:15:30] error (api-gateway): ❌ Auth handler error: Request failed with status code 401
+[2025-06-17 10:15:30] error (api-gateway): [GET] /v1/auth/permissions/all → 401: Invalid or missing token Invalid or missing token
+[2025-06-17 10:15:47] error (api-gateway): ❌ Auth handler error: Request failed with status code 401
+[2025-06-17 10:15:47] error (api-gateway): [GET] /v1/auth/permissions/all → 401: Invalid or missing token Invalid or missing token
+[2025-06-17 10:17:28] error (api-gateway): ❌ Auth handler error: Request failed with status code 401
+[2025-06-17 10:17:28] error (api-gateway): [GET] /v1/auth/permissions/5 → 401: Invalid or missing token Invalid or missing token
+[2025-06-17 10:17:50] error (api-gateway): ❌ Auth handler error: Request failed with status code 401
+[2025-06-17 10:17:50] error (api-gateway): [GET] /v1/auth/permissions/all → 401: Invalid or missing token Invalid or missing token
+[2025-06-17 10:18:27] error (api-gateway): ❌ Auth handler error: Request failed with status code 401
+[2025-06-17 10:18:27] error (api-gateway): [GET] /v1/auth/permissions/all → 401: Invalid or missing token Invalid or missing token
+[2025-06-17 10:19:28] error (api-gateway): [Proxy /v1/auth]
+[2025-06-17 10:25:58] error (api-gateway): [Proxy /v1/auth]
+[2025-06-17 10:26:31] error (api-gateway): [Proxy /v1/auth]
+[2025-06-17 10:27:48] error (api-gateway): [Proxy /v1/auth]
+[2025-06-17 10:28:54] error (api-gateway): [Proxy /v1/auth]
+[2025-06-17 10:30:56] error (api-gateway): [Proxy /v1/auth]
+[2025-06-17 10:32:06] error (api-gateway): ❌ Auth handler error: Request failed with status code 500
+[2025-06-17 10:32:06] error (api-gateway): [GET] /v1/auth/permissions/5 → 401: Invalid or missing token Invalid or missing token
+[2025-06-17 10:33:15] error (api-gateway): ❌ Auth handler error: Request failed with status code 500
+[2025-06-17 10:33:15] error (api-gateway): [GET] /v1/auth/permissions/5 → 401: Invalid or missing token Invalid or missing token
+[2025-06-17 10:33:25] error (api-gateway): [Proxy /v1/auth]
+[2025-06-17 10:35:46] error (api-gateway): ❌ Auth handler error: Request failed with status code 500
+[2025-06-17 10:35:46] error (api-gateway): [GET] /v1/auth/permissions/5 → 401: Invalid or missing token Invalid or missing token
+[2025-06-17 10:36:27] error (api-gateway): ❌ Auth handler error: Request failed with status code 500
+[2025-06-17 10:36:27] error (api-gateway): [GET] /v1/auth/permissions/5 → 401: Invalid or missing token Invalid or missing token
+[2025-06-17 10:37:03] error (api-gateway): ❌ Auth handler error: Request failed with status code 500
+[2025-06-17 10:37:03] error (api-gateway): [GET] /v1/auth/permissions/5 → 401: Invalid or missing token Invalid or missing token
+[2025-06-18 09:31:11] error (api-gateway): [Proxy /v1/auth]
+[2025-06-18 09:32:27] error (api-gateway): [Proxy /v1/auth]
+[2025-06-18 09:32:42] error (api-gateway): [Proxy /v1/auth]
+[2025-06-18 09:36:45] error (api-gateway): [Proxy /v1/auth]
+[2025-06-18 09:38:31] error (api-gateway): [Proxy /v1/auth]
+[2025-06-18 09:51:39] error (api-gateway): [Proxy /v1/auth]
+[2025-06-18 10:07:25] error (api-gateway): [Proxy /v1/auth]
+[2025-06-18 10:09:18] error (api-gateway): ❌ Auth handler error: Invalid token
+[2025-06-18 10:09:18] error (api-gateway): [GET] /v1/auth/roles → 401: Invalid or missing token Invalid or missing token
+[2025-06-18 10:09:28] error (api-gateway): ❌ Auth handler error: Invalid token
+[2025-06-18 10:09:28] error (api-gateway): [GET] /v1/auth/permissions/all → 401: Invalid or missing token Invalid or missing token
+[2025-06-18 10:19:28] error (api-gateway): [Proxy /v1/auth]
+[2025-06-18 10:19:29] error (api-gateway): [Proxy /v1/auth]
