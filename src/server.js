@@ -3,7 +3,6 @@ require('dotenv').config();
 const express = require('express');
 const helmet = require('helmet');
 const cors = require('cors');
-const Redis = require('ioredis');
 const logger = require('../utils/logger');
 const routes = require('./routes');
 const createProxy = require('./proxies/createProxy');
@@ -15,7 +14,6 @@ app.use(helmet());
 app.use(cors());
 app.use(express.json());
 
-const redis = new Redis(process.env.REDIS_URL);
 
 routes.forEach(route => {
   const auth = gatewayAuthHandler(route);

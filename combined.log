@@ -1137,3 +1137,9 @@
 [2025-06-18 10:19:42] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=false
 [2025-06-18 10:19:42] debug (api-gateway): [Gateway] Check path=/v1/auth/permissions/all matched=true
 [2025-06-18 10:19:42] info (api-gateway): Authenticated user 45 with role 5
+[2025-06-18 11:06:32] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-18 11:06:32] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-18 11:06:32] info (api-gateway): 🚀 API Gateway running on port 3000
+[2025-06-18 11:06:53] info (api-gateway): [Gateway] Mounting auth → /v1/auth → http://localhost:5000
+[2025-06-18 11:06:53] info (api-gateway): [Gateway] Mounting hr → /v1/hr → http://localhost:5002
+[2025-06-18 11:06:53] info (api-gateway): 🚀 API Gateway running on port 3000
